@@ -1,1 +1,1 @@
-# iOSSquadBestProject
+# iOSSquadBestProjects
